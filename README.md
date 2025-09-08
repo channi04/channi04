@@ -26,7 +26,8 @@ Welcome to my GitHub profile! Below are some of the projects I’ve worked on, a
 ### 📜 Certifications
 
 - ✅ **CEH Certified Ethical Hacker** – EC-Council  
-- ✅ **Data Security** – CISCO (Coursera)  
+- ✅ **Data Security** – CISCO (Coursera)
+- ✅ **Introduction to Computer Vision**- (Coursera)
 - ✅ **Design and Analyze Secure Networked Systems** – University of Colorado (Coursera)  
 - ✅ **Improving Deep Neural Networks** – Coursera  
 - ✅ **Algorithmic Toolbox** – Coursera
