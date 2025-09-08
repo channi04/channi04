@@ -1,37 +1,31 @@
-## Hi there 👋 Chandni here
+## Hi there 👋 I'm Chandni!
 
-<!--
-**channi04/channi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Below are some of the projects I’ve worked on, along with certifications that I’ve earned to enhance my skills.
 
-Here are some ideas to get you started:
+### 🌐 My Portfolio Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-My Portfolio Website
-Projects:
-Chat Application (Kotlin)
+---
 
-Built a Kotlin-based chat app using Jetpack Compose and MVVM architecture for real-time messaging.
-Integrated Firebase Firestore and Authentication for secure data storage and user management.
-Source Code
-Salary Prediction App (Machine Learning)
+### 💻 Projects
 
-Engineered a Machine Learning web application using Python and Streamlit for real-time salary prediction.
-Implemented models including Linear Regression, Decision Trees, and Random Forest Regression.
-Source Code
-Data Structure and Algorithm Visualizer (Java DSA)
+#### 📂 File Integrity Monitor (PowerShell, Hashing)
+- Built a PowerShell-based file monitoring tool using hashing algorithms to detect unauthorized changes in files and directories.
+- Provided real-time alerts to enhance system security and monitoring.
+- 🔗 [Source Code](https://github.com/channi04/File_Integrity_Monitor)
 
-Java-based tool using AWT and Swing to visualize data structures and algorithms.
-Developed interactive visualizations for key data structures and implemented animated sorting algorithms.
-Source Code
-Certifications:
-AWS Certified Cloud Practitioner
-Improving Deep Neural Networks (Coursera)
-Algorithmic Toolbox (Coursera)
+#### 🧠 Brain Tumor Detection (Deep Learning, CNN)
+- Developed a CNN model using Python and TensorFlow/Keras to analyze MRI scans for brain tumor detection with high accuracy.
+- Applied advanced preprocessing techniques to improve model performance and reduce noise in medical images.
+- 🔗 [Source Code](https://github.com/channi04/Brain-Tumor-Detection)
+
+---
+
+### 📜 Certifications
+
+- ✅ **CEH Certified Ethical Hacker** – EC-Council  
+- ✅ **Data Security** – CISCO (Coursera)  
+- ✅ **Design and Analyze Secure Networked Systems** – University of Colorado (Coursera)  
+- ✅ **Improving Deep Neural Networks** – Coursera  
+- ✅ **Algorithmic Toolbox** – Coursera
+
+---
